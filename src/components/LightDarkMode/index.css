@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.card {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.dark {
+  margin: 40px;
+  background-color: black;
+  padding: 30px;
+}
+.light {
+  margin: 40px;
+  background-color: #ffffff;
+  padding: 30px;
+}
+h1 {
+  color: #ffffff;
+}
